@@ -1,2 +1,4 @@
 # FindYourDoc
-It's a Java app, In your system which helps to find the document(s) which have the search keyword also which performs document to pdf conversion.
+It's a keyword search application coded in Java.
+In a system, it helps to find the documents which have the search keyword.
+It also performs document to pdf conversion.
